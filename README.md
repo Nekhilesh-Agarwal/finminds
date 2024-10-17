@@ -1,26 +1,38 @@
 # Manipal Hackathon 2024 README Template
 
-**Team Name:** `<Insert Team Name>`
+**Team Name:** FINMINDS
 
-**Problem Statement:** `<Insert Problem Statement>`
+**Problem Statement:** Investing in mutual funds can be a great way for young adults to start their investment journey, but understanding how to choose the right fund can be challenging. Create a mobile app that simplifies the process of selecting and investing in mutual funds by making it engaging and educational. The app should feature game mechanics that allow users to simulate investing in various mutual funds, manage a virtual portfolio, and participate in investment challenges. Integrate educational content such as tutorials, quizzes, and real-world scenarios to teach key investment concepts. Include features like leaderboards, achievements, and rewards to enhance engagement. Reference: https://www.amfiindia.com/investor-corner/knowledge-center/equity-funds.htmy
 
 ## 📜 Introduction
-
-Our project allows `<insert consumer segment>` to do A, B and C by D, E and F. We have utilised X, Y and Z technologies to do P, Q and R.
+  
+Our web app offers a comprehensive learning platform for individuals interested in mutual funds and stock markets. It combines educational content with practical tools to enhance the learning experience. Users can take notes directly within the app and download them instantly, ensuring seamless knowledge retention. A built-in reader, powered by JavaScript, provides text-to-speech functionality for more accessible learning. The mutual fund simulator offers in-depth fund information with performance graphs—created using Python—displayed at daily, weekly, monthly, and yearly intervals. Built with Next.js and React on the frontend and JavaScript on the backend, our platform ensures a smooth and engaging user experience for beginners and seasoned investors alike.
 
 ## ✨ Features
 
-App:
+Website: 
 
--   Ultra cool feature #1
--   Pro max feature #2
--   Feature #3
+1. **Educational Content**  
+   - Learn about mutual funds and stock markets with well-structured resources.
 
-Website:
+2. **Notes-Making Section**  
+   - Write notes while learning and download them instantly.
 
--   Ultra cool feature #1
--   Pro max feature #2
--   Feature #3
+3. **Text-to-Speech Reader**  
+   - Reads content aloud for improved accessibility.
+
+4. **Mutual Fund Simulator**  
+   - View detailed fund information.  
+   - Analyze fund performance with graphs at daily, weekly, monthly, and yearly intervals.
+
+5. **Performance Graphs**  
+   - Generated using Python for accurate visualization.
+
+6. **Technology Stack**  
+   - **Frontend:** Built with Next.js and React.  
+   - **Backend:** Powered by JavaScript, including the speech function.  
+
+These features ensure an engaging, educational, and user-friendly experience for anyone looking to learn about and explore the world of investing.
 
 ## 🟢 Access
 
